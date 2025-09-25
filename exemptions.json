@@ -1,0 +1,14 @@
+{
+  "logging": "*",
+  "crypto pki-ipsec": "*",
+  "lc-cluster group-profile *": [
+    "ap-password *"
+  ],
+  "aaaaa": [
+    "ap-password *"
+  ],
+  "ccccc wwwww zzzzz": [
+    "ap-password *"
+  ]
+}
+
